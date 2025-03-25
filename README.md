@@ -1,18 +1,22 @@
 # rest-assured-chapter-4
 This Repository is created to help the RestAssured Assertion Chapter-3 Blog created 
 
-Blog Link - https://medium.com/@shreyas18jan/topic-rest-assured-chapter-3-2159b8eac31c
+Blog Link - https://medium.com/@shreyas18jan/topic-rest-assured-chapter-4-b45efe717237
 
-## Folder : status
-Deals with examples of using statusCode() and statusLine() method assertions
-here - [status](src/main/java/org/example/assertions/status)
+## Folder : authentication
+Deals with examples for authentication related interview questions.
+here - [authentication](src/main/java/org/example/assertions/interview/authentication)
 
-## Folder : header
-Deals with examples of using header() method assertion
-here - [header](src/main/java/org/example/assertions/header)
+## Folder : download
+Deals with examples for automating the file download using Rest Assured
+here - [download](src/main/java/org/example/assertions/interview/download)
 
-## Folder : respopnseBody
-Deals with examples of using body() method assertions
-here - [body](src/main/java/org/example/assertions/responsebody)
+## Folder : upload
+Deals with examples for automating the file upload using Rest Assured
+here - [upload](src/main/java/org/example/assertions/interview/upload)
+
+## Folder : validation
+Deals with examples for Schema, ResponseTime etc.
+here - [validation](src/main/java/org/example/assertions/interview/validation)
 
 .
